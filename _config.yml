@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: <p align="center"> GAYTHRI </p>
+logo: /assets/img/GaythriT.jpg
+description:
+  <p align="center">
+  Worked in VMWARE and TCS as Tester<br>
+  Upgrading skills in Machine learning and Artificial intelligence<br>
+  Looking for a good restart of career as a Data scientist<br>
+  </p>
+  
+  
+  
+  
+  
+  
+theme: jekyll-theme-minimal  
